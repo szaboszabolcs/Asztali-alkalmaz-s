@@ -1,0 +1,9 @@
+C:\Users\Szabó Szabolcs\source\repos\ellenorzes\ellenorzes\bin\Debug\ellenorzes.exe.config
+C:\Users\Szabó Szabolcs\source\repos\ellenorzes\ellenorzes\bin\Debug\ellenorzes.exe
+C:\Users\Szabó Szabolcs\source\repos\ellenorzes\ellenorzes\bin\Debug\ellenorzes.pdb
+C:\Users\Szabó Szabolcs\source\repos\ellenorzes\ellenorzes\obj\Debug\ellenorzes.csproj.AssemblyReference.cache
+C:\Users\Szabó Szabolcs\source\repos\ellenorzes\ellenorzes\obj\Debug\ellenorzes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szabó Szabolcs\source\repos\ellenorzes\ellenorzes\obj\Debug\ellenorzes.csproj.CoreCompileInputs.cache
+C:\Users\Szabó Szabolcs\source\repos\ellenorzes\ellenorzes\obj\Debug\ellenorzes.exe
+C:\Users\Szabó Szabolcs\source\repos\ellenorzes\ellenorzes\obj\Debug\ellenorzes.pdb
+C:\Users\Szabó Szabolcs\source\repos\ellenorzes\ellenorzes\bin\Debug\meresek.txt
