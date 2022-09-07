@@ -1,0 +1,9 @@
+C:\Users\Szabó Szabolcs\source\repos\Ellenorzés\Ellenorzés\bin\Debug\meresek.txt
+C:\Users\Szabó Szabolcs\source\repos\Ellenorzés\Ellenorzés\bin\Debug\Ellenorzés.exe.config
+C:\Users\Szabó Szabolcs\source\repos\Ellenorzés\Ellenorzés\bin\Debug\Ellenorzés.exe
+C:\Users\Szabó Szabolcs\source\repos\Ellenorzés\Ellenorzés\bin\Debug\Ellenorzés.pdb
+C:\Users\Szabó Szabolcs\source\repos\Ellenorzés\Ellenorzés\obj\Debug\Ellenorzés.csproj.AssemblyReference.cache
+C:\Users\Szabó Szabolcs\source\repos\Ellenorzés\Ellenorzés\obj\Debug\Ellenorzés.csproj.SuggestedBindingRedirects.cache
+C:\Users\Szabó Szabolcs\source\repos\Ellenorzés\Ellenorzés\obj\Debug\Ellenorzés.csproj.CoreCompileInputs.cache
+C:\Users\Szabó Szabolcs\source\repos\Ellenorzés\Ellenorzés\obj\Debug\Ellenorzés.exe
+C:\Users\Szabó Szabolcs\source\repos\Ellenorzés\Ellenorzés\obj\Debug\Ellenorzés.pdb
